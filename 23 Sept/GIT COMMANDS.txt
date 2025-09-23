@@ -1,0 +1,45 @@
+GIT COMMANDS
+
+Setup & Configuration:
+1)git config --global user.name  “Name” : Sets name for commits globally
+2)git config --global user.email email@eg.com : Sets email for commits globally
+3)git config --list : Shows all git configurations
+
+For Repository Initialization:
+1)git init : Initializes a new git repository
+2)git clone <repo_url> : Copies an existing repository
+
+Basic workflow:
+1)git status : Shows the status of working directory
+2)git add <file> : Stages a file for commit
+3)git add . : Stages all changes in the directory
+4)git commit -m “message” : Saves staged changes with a message
+5)git log : Shows commit history
+6)git diff : Shows differences between working directory and staging area
+
+Branching:
+1)git branch : Lists branches
+2)git branch <branch_name> : Creates a new branch
+3)git checkout <branch_name> : Switches to another branch
+4)git checkout -b <branch_name> : Creates and switches to new branch
+5)git merge <branch_name> : Merges specified branch into the current branch
+
+
+
+Remote Repositories:
+1)git remote -v : Lists remote repositories
+2)git remote and origin <repo_url> : Adds a new repository
+3)git push -u origin <branch_name> : Pushes your branch to the remote repository
+4)git push : Pushes committed changes to the remote
+5)git pull : Fetches and merges changes from the remote to your branch
+6)git fetch : Fetches changes but does not merge
+
+Undo/Reset:
+1)git restore <file> : Discards changes in working directory
+2)git reset <file> : Unstages a stagged file
+3)git reset –hard <commit_id> : Resets your branch to a specific commit
+4)git revert <commit_id> : Creates a new commit that undoes the changes of a specific commit
+
+Stash:
+1)git stash : Temporarily saves uncommitted changes
+2)git stash pop : Restores stash changes
