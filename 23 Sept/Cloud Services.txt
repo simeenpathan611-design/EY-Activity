@@ -1,0 +1,102 @@
+1. IaaS (Infrastructure as a Service)
+What is IaaS?
+IaaS provides virtualized computing resources over the internet. It offers the basic building blocks for cloud IT and provides services such as virtual machines, storage, networks, and operating systems.
+
+Key Components:
+Compute: Virtual machines (VMs), CPUs, RAM
+Storage: Block storage, object storage, file storage
+Networking: Virtual networks, load balancers, VPNs
+Other: Firewalls, security, monitoring tools
+
+Advantages:
+High flexibility and scalability
+Pay-as-you-go pricing
+Full control over infrastructure
+Easy to scale up/down
+
+Disadvantages:
+Requires technical expertise to manage
+You are responsible for security, updates, and maintenance of OS and applications
+
+Use Cases:
+Hosting websites and web apps
+Development and testing environments
+Data storage, backup, and recovery
+High-performance computing
+
+Examples:
+Amazon Web Services (AWS) EC2
+Microsoft Azure Virtual Machines
+Google Compute Engine
+
+
+2. PaaS (Platform as a Service)
+What is PaaS?
+PaaS provides a platform allowing customers to develop, run, and manage applications without the complexity of building and maintaining the infrastructure.
+
+Key Components:
+Application hosting
+Development tools (APIs, SDKs)
+Database management
+Middleware
+Business analytics
+
+Advantages:
+Simplifies app development (no need to manage infrastructure)
+Faster time to market
+Built-in scalability and high availability
+Integrated development tools
+
+Disadvantages:
+Less control over the underlying infrastructure
+Potential vendor lock-in
+Limited customization compared to IaaS
+
+Use Cases:
+Developing web and mobile applications
+API development and management
+Analytics and business intelligence
+
+Examples:
+Google App Engine
+Microsoft Azure App Service
+Heroku
+
+
+3. SaaS (Software as a Service)
+What is SaaS?
+SaaS delivers software applications over the internet, on a subscription basis. Users access the software via a web browser, and everything is managed by the provider.
+
+Key Components:
+Application software
+Data storage
+User interface (usually web-based)
+Security and compliance
+
+Advantages:
+No installation or maintenance required
+Accessible from anywhere with internet
+Automatic updates and patches
+Predictable subscription pricing
+
+Disadvantages:
+Limited customization
+Data security and privacy concerns
+Dependence on internet connectivity
+
+Use Cases:
+Email and collaboration tools
+Customer relationship management (CRM)
+Enterprise resource planning (ERP)
+File storage and sharing
+
+Examples:
+Microsoft 365
+Google Workspace (Gmail, Docs, Drive)
+Salesforce
+Dropbox
+
+Visual Analogy
+IaaS: Like renting an empty apartment—you bring your own furniture, appliances, and decorate as you wish.
+PaaS: Like renting a fully furnished apartment—you just bring your personal items and start living.
+SaaS: Like staying in a hotel—everything is provided, you just use the services.
