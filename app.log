@@ -1,0 +1,21 @@
+2025-10-06 14:30:54,857 - root - INFO - Application started
+2025-10-06 14:30:54,858 - root - WARNING - Low memory warning
+2025-10-06 14:30:54,858 - root - ERROR - Error message
+2025-10-06 14:30:54,858 - root - CRITICAL - Critical message
+2025-10-06 14:57:17,813 - root - INFO - Application started
+2025-10-06 14:57:17,813 - root - WARNING - Low memory warning
+2025-10-06 14:57:17,814 - root - ERROR - Error message
+2025-10-06 14:57:17,814 - root - CRITICAL - Critical message
+2025-10-06 15:44:30,914 - (message)s
+2025-10-06 15:44:30,915 - (message)s
+2025-10-06 16:35:51,550 - config loaded successfully
+2025-10-06 16:38:11,670 - config loaded successfully
+2025-10-06 16:40:05,311 - config loaded successfully
+2025-10-06 16:40:27,224 - config loaded successfully
+2025-10-06 16:41:08,387 - config loaded successfully
+INFO Sales CSV written
+INFO Sales CSV written
+INFO Sales CSV written
+INFO Laptop total=140000
+INFO Mouse total=2500
+INFO Keyboard total=3600
