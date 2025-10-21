@@ -1,0 +1,3 @@
+EnrollmentID,StudentID,CourseID,EnrollDate,Progress,Name,Email,Country,Title,Category,Duration,CompletionStatus,EnrollMonth
+E005,5004,C104,2025-10-05,20,Ravi,ravi@example.com,India,Cloud Fundamentals,Cloud,50,In Progress,October
+E006,5005,C102,2025-10-06,75,Meena,meena@example.com,USA,Machine Learning Basics,AI,60,In Progress,October
